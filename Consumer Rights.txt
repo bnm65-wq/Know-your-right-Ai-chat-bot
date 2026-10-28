@@ -1,0 +1,51 @@
+Consumer Rights
+
+Purpose
+
+Our chatbot will help people understand their basic consumer rights using simple language. It will answer common questions and direct users to reliable resources.
+
+1. Refunds and Returns
+
+Consumers may be able to get a refund if an online order never arrives or a seller does not follow its promises. However, stores are not always required to accept returns.
+
+Example Question: My online order never arrived. What can I do?
+
+Chatbot Response: Contact the seller and ask for a refund. If you paid by credit card, you may also be able to dispute the charge.
+
+2. Scams and Fraud
+
+Consumers should be aware of fake websites, suspicious messages, and requests for personal information. Scams can be reported to the Federal Trade Commission (FTC).
+
+Example Question: I think I bought something from a fake website. What should I do?
+
+Chatbot Response: Contact your bank immediately, save any receipts or messages, and report the scam to the FTC.
+
+3. False Advertising
+
+Businesses generally cannot use deceptive advertising to mislead customers about products or services.
+
+Example Question: The product I received is different from what was advertised. What can I do?
+
+Chatbot Response: Save the advertisement and receipt, contact the seller, and report suspected deceptive advertising to the FTC.
+
+4. Billing Disputes
+
+Consumers have protections against incorrect or unauthorized charges. Credit card billing disputes have specific procedures and deadlines.
+
+Example Question: I was charged twice for one purchase. What should I do?
+
+Chatbot Response: Contact your credit card company to report the extra charge and follow its dispute instructions.
+
+Reliable Sources
+
+Federal Trade Commission: https://consumer.ftc.gov/
+
+Report Fraud: https://reportfraud.ftc.gov/
+
+Consumer Financial Protection Bureau: https://www.consumerfinance.gov/consumer-tools/
+
+Pennsylvania Attorney General: https://www.attorneygeneral.gov/submit-a-complaint/consumer-en/
+
+Summary
+
+Our chatbot will focus on four common consumer problems: refunds, scams, false advertising, and billing disputes. It will provide simple explanations and direct users to reliable government resources. The chatbot will provide general legal information rather than legal advice.
