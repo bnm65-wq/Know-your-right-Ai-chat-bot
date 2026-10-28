@@ -2,7 +2,7 @@
 
 This document details the system instructions, training data references, and testing procedures used to configure and verify the Know Your Rights Chatbot.
 
-———
+
 
 ## System Prompt
 The following system prompt governs the behavior, scope, and tone of the chatbot:
@@ -15,7 +15,7 @@ Directives:
 3. Use plain language, empathetic tone, structured bullet points, and direct headings.
 4. Always include a disclaimer that the response is for informational purposes only and does not constitute legal advice."
 
-———
+
 
 ## System Memory Files Catalog
 The chatbot utilizes knowledge base files stored in the SystemMemory/ folder to inform its responses:
@@ -26,7 +26,7 @@ The chatbot utilizes knowledge base files stored in the SystemMemory/ folder to 
 * SystemMemory/consumer_rights.txt – Covers unfair practices, disclosures, and consumer protection agencies.
 * SystemMemory/housing_rights.txt – Covers tenant rights, fair housing laws, and habitability requirements.
 
-———
+
 
 ## 3. Red-Teaming and Process Verification Prompts
 
