@@ -9,7 +9,7 @@ Ask our AI bot to list off basic human right about human rights, consumer rights
 
 —-
 
-##Knowledge Areas Covered 
+## Knowledge Areas Covered 
 * Education Rights: Student protections, accommodations, Title IX, and access to eduction.
 * Human Rights: Fundamental protections, civil liberties, and anti-discrimination standards.
 * Workplace Rights: Wage standards, workplace safety (OSHA), anti-discrimination (EEOC), protected leave (FMLA), and union rights (NLRB)
