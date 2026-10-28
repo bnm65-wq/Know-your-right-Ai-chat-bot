@@ -6,6 +6,7 @@
 3. [Inclusive Design: User Group Cards (Part 1)](#3-inclusive-design-user-group-cards-part-1)
 4. [Inclusive Design: User Group Cards (Part 2)](#4-inclusive-design-user-group-cards-part-2)
 
+Slides link: https://github.com/bnm65-wq/Know-your-right-Ai-chat-bot 
 ---
 
 ## 1. Project Overview & Concept
